@@ -147,3 +147,14 @@ background: #e91e63;
 .container .card:nth-child(3) .box .content a{
 background: #97dc47;
 }
+
+@media only screen and (max-width: 992px) {
+    .why {
+        text-align: center;
+    }
+    .why .reason {
+        width: 50%;
+        margin: 0 auto;
+        font-size: large;
+    }
+  }
