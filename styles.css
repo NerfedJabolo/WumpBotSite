@@ -148,7 +148,7 @@ background: #e91e63;
 background: #97dc47;
 }
 
-@media only screen and (max-width: 992px) {
+@media screen and (max-width: 992px) {
     .why {
         text-align: center;
     }
